@@ -35,5 +35,6 @@ A term–document matrix is a table that shows how many times each word appears 
 - Columns → context words
 - Cell value → number of times two words co-occur
 
-![Uploading image.png…]()
+<img width="1083" height="552" alt="image" src="https://github.com/user-attachments/assets/5be2e62f-de1d-4836-9e3b-33673f75a265" />
+
 
